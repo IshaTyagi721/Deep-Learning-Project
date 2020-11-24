@@ -1,3 +1,3 @@
 # Deep-Learning-Project
 
-This repository has Artificial Neural Network, Probabilistic Neural Network, Logistic Regression, K nearest neighbora and support vector machine code for churn modelling.
+This repository has Artificial Neural Network, Probabilistic Neural Network, Logistic Regression, K nearest neighbour and Support Vector Machine code for predicting customer churn.
